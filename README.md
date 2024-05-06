@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jade Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyj-dev)](https://github.com/zyj-dev)
+
 <!--
 **zyj-dev/zyj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
