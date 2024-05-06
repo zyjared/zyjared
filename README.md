@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyj-dev&layout=compact)](https://github.com/zyj-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyj-dev&layout=compact&theme=dark)](https://github.com/zyj-dev)
 
 <!--
 **zyj-dev/zyj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
