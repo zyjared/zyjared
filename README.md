@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<p>
-  <samp>
-    <a href="https://github.com/zyjared/zyjared/tree/main/bookmarks">bookmarks</a>
-  </samp>
-</p>
+<samp>
+  <a href="https://github.com/zyjared/zyjared/tree/main/bookmarks">bookmarks</a>
+</samp>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyjared&layout=compact&theme=onedark" alt="Top Langs" />
 
