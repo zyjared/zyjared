@@ -2,7 +2,7 @@
 
 <p>
   <samp>
-    <a href="https:zyjared.com">site</a>&ensp;
+    <a href="https://zyjared.com">site</a>&ensp;
     <a href="https://github.com/zyjared/zyjared/tree/main/bookmarks">bookmarks</a>
   </samp>
 </p>
