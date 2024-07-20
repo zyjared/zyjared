@@ -7,9 +7,7 @@
   </samp>
 </p>
 
-<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyjared&layout=compact&theme=onedark" alt="Top Langs" />
--->
 
 <!--
 Here are some ideas to get you started:
