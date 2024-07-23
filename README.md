@@ -7,7 +7,9 @@
   </samp>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyjared&layout=compact&theme=onedark" alt="Top Langs" />
+<a href="https://github.com/zyjared/zyjared">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyjared&layout=compact&theme=radical&hide_title=true" alt="Top Langs" />
+</a>
 
 <!--
 Here are some ideas to get you started:
