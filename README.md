@@ -8,9 +8,11 @@
   </samp>
 </p>
 
+<!--
 <a href="https://github.com/zyjared/zyjared">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyjared&layout=compact&theme=radical&hide_title=true&size_weight=0.5&count_weight=0.5&hide=css,html,cmake" alt="Top Langs" />
 </a>
+-->
 
 <!--
 Here are some ideas to get you started:
