@@ -2,8 +2,10 @@
 
 <p>
   <samp>
+    <!--
     <a href="https://zyjared.com">site</a>
     ·
+    -->
     <a href="https://github.com/zyjared/zyjared/tree/main/docs/bookmarks.md">bookmarks</a>
   </samp>
 </p>
