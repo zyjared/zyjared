@@ -1,10 +1,17 @@
 # Bookmarks
 
-## 工具
+## AI
 
-- [Starship](https://starship.rs/zh-CN/): 轻量、迅速、客制化的高颜值终端！
+- [DeepSeek](https://chat.deepseek.com/)
+  - [元宝](https://yuanbao.tencent.com/)
+- [通义](https://tongyi.aliyun.com/)
+- [ChatGPT](https://chatgpt.com/)
 
-## 小程序
+## 终端
+
+- [Starship](https://starship.rs/zh-CN/)
+
+## 其他
 
 - [微信公众平台](https://mp.weixin.qq.com/)
 - [微信官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
