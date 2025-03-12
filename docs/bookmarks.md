@@ -11,6 +11,10 @@
 
 - [Starship](https://starship.rs/zh-CN/)
 
+## 图片
+
+-[ImageMagick](https://imagemagick.org/script/command-line-processing.php)
+
 ## 其他
 
 - [微信公众平台](https://mp.weixin.qq.com/)
