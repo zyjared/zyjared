@@ -13,7 +13,7 @@
 
 ## 图片
 
--[ImageMagick](https://imagemagick.org/script/command-line-processing.php)
+- [ImageMagick](https://imagemagick.org/script/command-line-processing.php)
 
 ## 其他
 
